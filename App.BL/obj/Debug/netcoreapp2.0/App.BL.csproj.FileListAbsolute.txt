@@ -1,0 +1,11 @@
+C:\Users\DEV\Desktop\ttt\App\App.BL\bin\Debug\netcoreapp2.0\App.BL.deps.json
+C:\Users\DEV\Desktop\ttt\App\App.BL\bin\Debug\netcoreapp2.0\App.BL.dll
+C:\Users\DEV\Desktop\ttt\App\App.BL\obj\Debug\netcoreapp2.0\App.BL.csprojResolveAssemblyReference.cache
+C:\Users\DEV\Desktop\ttt\App\App.BL\obj\Debug\netcoreapp2.0\App.BL.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\ttt\App\App.BL\obj\Debug\netcoreapp2.0\App.BL.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\ttt\App\App.BL\obj\Debug\netcoreapp2.0\App.BL.AssemblyInfo.cs
+C:\Users\DEV\Desktop\ttt\App\App.BL\bin\Debug\netcoreapp2.0\App.BL.pdb
+C:\Users\DEV\Desktop\ttt\App\App.BL\obj\Debug\netcoreapp2.0\App.BL.dll
+C:\Users\DEV\Desktop\ttt\App\App.BL\obj\Debug\netcoreapp2.0\App.BL.pdb
+C:\Users\DEV\Desktop\ttt\App\App.BL\bin\Debug\netcoreapp2.0\App.DAL.dll
+C:\Users\DEV\Desktop\ttt\App\App.BL\bin\Debug\netcoreapp2.0\App.DAL.pdb

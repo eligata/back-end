@@ -1,0 +1,9 @@
+C:\Users\DEV\Desktop\ttt\App\App.Common\bin\Debug\netcoreapp2.0\App.Common.deps.json
+C:\Users\DEV\Desktop\ttt\App\App.Common\bin\Debug\netcoreapp2.0\App.Common.dll
+C:\Users\DEV\Desktop\ttt\App\App.Common\bin\Debug\netcoreapp2.0\App.Common.pdb
+C:\Users\DEV\Desktop\ttt\App\App.Common\obj\Debug\netcoreapp2.0\App.Common.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\ttt\App\App.Common\obj\Debug\netcoreapp2.0\App.Common.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\ttt\App\App.Common\obj\Debug\netcoreapp2.0\App.Common.AssemblyInfo.cs
+C:\Users\DEV\Desktop\ttt\App\App.Common\obj\Debug\netcoreapp2.0\App.Common.dll
+C:\Users\DEV\Desktop\ttt\App\App.Common\obj\Debug\netcoreapp2.0\App.Common.pdb
+C:\Users\DEV\Desktop\ttt\App\App.Common\obj\Debug\netcoreapp2.0\App.Common.csprojResolveAssemblyReference.cache

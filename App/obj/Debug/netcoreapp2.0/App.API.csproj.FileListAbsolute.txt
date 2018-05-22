@@ -1,0 +1,17 @@
+C:\Users\DEV\Desktop\ttt\App\App\bin\Debug\netcoreapp2.0\App.Common.dll
+C:\Users\DEV\Desktop\ttt\App\App\obj\Debug\netcoreapp2.0\App.API.csprojResolveAssemblyReference.cache
+C:\Users\DEV\Desktop\ttt\App\App\obj\Debug\netcoreapp2.0\App.API.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\ttt\App\App\obj\Debug\netcoreapp2.0\App.API.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\ttt\App\App\obj\Debug\netcoreapp2.0\App.API.AssemblyInfo.cs
+C:\Users\DEV\Desktop\ttt\App\App\bin\Debug\netcoreapp2.0\App.API.deps.json
+C:\Users\DEV\Desktop\ttt\App\App\bin\Debug\netcoreapp2.0\App.API.runtimeconfig.json
+C:\Users\DEV\Desktop\ttt\App\App\bin\Debug\netcoreapp2.0\App.API.runtimeconfig.dev.json
+C:\Users\DEV\Desktop\ttt\App\App\bin\Debug\netcoreapp2.0\App.API.dll
+C:\Users\DEV\Desktop\ttt\App\App\bin\Debug\netcoreapp2.0\App.API.pdb
+C:\Users\DEV\Desktop\ttt\App\App\bin\Debug\netcoreapp2.0\App.Common.pdb
+C:\Users\DEV\Desktop\ttt\App\App\obj\Debug\netcoreapp2.0\App.API.dll
+C:\Users\DEV\Desktop\ttt\App\App\obj\Debug\netcoreapp2.0\App.API.pdb
+C:\Users\DEV\Desktop\ttt\App\App\bin\Debug\netcoreapp2.0\App.BL.dll
+C:\Users\DEV\Desktop\ttt\App\App\bin\Debug\netcoreapp2.0\App.DAL.dll
+C:\Users\DEV\Desktop\ttt\App\App\bin\Debug\netcoreapp2.0\App.BL.pdb
+C:\Users\DEV\Desktop\ttt\App\App\bin\Debug\netcoreapp2.0\App.DAL.pdb
